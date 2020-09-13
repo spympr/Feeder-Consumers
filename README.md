@@ -6,5 +6,6 @@ Here Feeder has a big array of integers and also we have a shared memory, which 
 
 # Execution 
 You can check it out, only with execution of: **bash script.sh Number_Of_Consumers Size_Of_Array**
+
 Note: You need to give 2 arguments with exactly this order.
 After that run **bash script2.sh**. This is for cleaning what we just created.
